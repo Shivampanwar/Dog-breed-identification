@@ -23,6 +23,8 @@ If you want to make bottleneck features see, 'Making Bottleneck.ipynb' . Since, 
 Run Dog breed identification.ipynb  for checking results.  You can use pretrained weights saved inside saved_models directory and model_architecture_vgg_self_made.json to directly run model with weights without training.
 
 ### Results
+![image](https://user-images.githubusercontent.com/12275601/40762728-87a97b0e-64bf-11e8-9043-5b43952f0415.png)
+
 
 
 
