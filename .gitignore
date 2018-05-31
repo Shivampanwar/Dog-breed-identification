@@ -1,0 +1,8 @@
+#Ignore Dog Images dataset
+dogImages/test/
+dogImages/train/
+dogImages/valid/
+
+#Ignore bottleneck features
+bottleneck_features/
+
